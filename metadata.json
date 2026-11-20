@@ -1,0 +1,6 @@
+{
+  "name": "QueueCast",
+  "description": "Know the Queue. Plan Your Meal. Live college canteen queue tracking, wait time forecasting, staff updates, and campus analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
